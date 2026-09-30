@@ -1,0 +1,6 @@
+{
+  "name": "FlowState AI - Adobe Premiere Pro Local AI Suite",
+  "description": "All-in-one 100% free, fully local AI video editing suite built natively as a CEP Panel plugin for Adobe Premiere Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
